@@ -8,7 +8,7 @@ namespace Malween.Dominio.Servico.Interface.Login.v1
     public interface IUsuarioLoginServico
     {
         UsuarioLogin Retorna(UsuarioLogin login);
-        bool Cadastra(UsuarioLogin login);
-        bool AlteraSenhaDo(UsuarioLogin login);
+        void Cadastra(UsuarioLogin login);
+        void AlteraSenhaDo(UsuarioLogin login);
     }
 }

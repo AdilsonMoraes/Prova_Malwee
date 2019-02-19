@@ -29,3 +29,4 @@ C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Globalizazao\o
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Globalizazao\obj\Debug\netcoreapp2.1\pt\Malween.Dominio.Globalizacao.resources.dll
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Globalizazao\obj\Debug\netcoreapp2.1\Malween.Dominio.Globalizacao.dll
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Globalizazao\obj\Debug\netcoreapp2.1\Malween.Dominio.Globalizacao.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Globalizazao\obj\Debug\netcoreapp2.1\Malween.Dominio.Globalizacao.csprojAssemblyReference.cache

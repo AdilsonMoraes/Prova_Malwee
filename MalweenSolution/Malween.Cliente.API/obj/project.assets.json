@@ -4784,6 +4784,20 @@
           "bin/placeholder/Malveen.Dominio.Repository.Interface.dll": {}
         }
       },
+      "Malwee.Dominio.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Malween.Dominio": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Malwee.Dominio.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Malwee.Dominio.DTO.dll": {}
+        }
+      },
       "Malween.Cliente.Autenticacao/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -13127,6 +13141,11 @@
       "path": "../Malveen.Dominio.Repository.Interface/Malveen.Dominio.Repository.Interface.csproj",
       "msbuildProject": "../Malveen.Dominio.Repository.Interface/Malveen.Dominio.Repository.Interface.csproj"
     },
+    "Malwee.Dominio.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Malwee.Dominio.DTO/Malwee.Dominio.DTO.csproj",
+      "msbuildProject": "../Malwee.Dominio.DTO/Malwee.Dominio.DTO.csproj"
+    },
     "Malween.Cliente.Autenticacao/1.0.0": {
       "type": "project",
       "path": "../Malween.Cliente.Autenticacao/Malween.Cliente.Autenticacao.csproj",
@@ -13192,6 +13211,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Malveen.Dominio.Infraestrutura >= 1.0.0",
       "Malveen.Dominio.Repository.Interface >= 1.0.0",
+      "Malwee.Dominio.DTO >= 1.0.0",
       "Malween.Cliente.Autenticacao >= 1.0.0",
       "Malween.Cliente.Autenticacao.Interface >= 1.0.0",
       "Malween.Cliente.Dominio >= 1.0.0",
@@ -13254,6 +13274,9 @@
             },
             "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
               "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
+            },
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malwee.Dominio.DTO\\Malwee.Dominio.DTO.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malwee.Dominio.DTO\\Malwee.Dominio.DTO.csproj"
             },
             "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj": {
               "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj"

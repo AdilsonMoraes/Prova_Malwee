@@ -2,6 +2,8 @@
 using Malween.Cliente.Servico.Login.v1.Validacao;
 using Malween.Dominio.Globalizacao;
 using Malween.Dominio.Login.v1;
+using Malween.Dominio.Mensagens.v1;
+using Malween.Dominio.Mensagens.v1.Enum;
 using Malween.Dominio.Servico.Interface.Login.v1;
 using Microsoft.Extensions.Localization;
 using System;
@@ -32,19 +34,39 @@ namespace Malween.Cliente.Servico.Login.v1
             return default(UsuarioLogin);
         }
 
-        public bool Cadastra(UsuarioLogin login)
+        public void Cadastra(UsuarioLogin login)
         {
-            if (!LoginExistePara(login.Usuario))
+            bool result = false;
+            bool validaUser = LoginExistePara(login.Usuario);
+
+            if (!validaUser)
             {
-                return _repositorio.Cadastra(login);
+                result = _repositorio.Cadastra(login);
             }
 
-            return false;
+            if (validaUser || !result)
+            {
+                throw new ErroException(GeralEnumException.LoginJaCadastrado.Codigo.ToString(), 
+                    GeralEnumException.LoginJaCadastrado.Valor);
+            }
+
         }
 
-        public bool AlteraSenhaDo(UsuarioLogin login)
+        public void AlteraSenhaDo(UsuarioLogin login)
         {
-            return _repositorio.AlteraSenhaDo(login);
+            bool result = false;
+            bool validaUser = LoginExistePara(login.Usuario);
+
+            if (validaUser)
+            {
+                result = _repositorio.AlteraSenhaDo(login);
+            }
+
+            if (!validaUser || !result)
+            {
+                throw new ErroException(GeralEnumException.ProblemaParaAlterarSenha.Codigo.ToString(), 
+                    GeralEnumException.ProblemaParaAlterarSenha.Valor);
+            }
         }
 
         private bool LoginExistePara(string nomeUsuario)

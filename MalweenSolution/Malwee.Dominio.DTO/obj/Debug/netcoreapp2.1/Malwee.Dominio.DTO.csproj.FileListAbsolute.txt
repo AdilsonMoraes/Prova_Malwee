@@ -1,0 +1,8 @@
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\bin\Debug\netcoreapp2.1\Malwee.Dominio.DTO.deps.json
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\bin\Debug\netcoreapp2.1\Malwee.Dominio.DTO.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\bin\Debug\netcoreapp2.1\Malween.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\bin\Debug\netcoreapp2.1\Malween.Dominio.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\obj\Debug\netcoreapp2.1\Malwee.Dominio.DTO.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\obj\Debug\netcoreapp2.1\Malwee.Dominio.DTO.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\obj\Debug\netcoreapp2.1\Malwee.Dominio.DTO.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malwee.Dominio.DTO\obj\Debug\netcoreapp2.1\Malwee.Dominio.DTO.csproj.CopyComplete

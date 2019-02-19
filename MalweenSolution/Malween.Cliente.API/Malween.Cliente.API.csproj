@@ -26,6 +26,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Malveen.Dominio.Infraestrutura\Malveen.Dominio.Infraestrutura.csproj" />
     <ProjectReference Include="..\Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj" />
+    <ProjectReference Include="..\Malwee.Dominio.DTO\Malwee.Dominio.DTO.csproj" />
     <ProjectReference Include="..\Malween.Cliente.Autenticacao.Interface\Malween.Cliente.Autenticacao.Interface.csproj" />
     <ProjectReference Include="..\Malween.Cliente.Autenticacao\Malween.Cliente.Autenticacao.csproj" />
     <ProjectReference Include="..\Malween.Cliente.Dominio\Malween.Cliente.Dominio.csproj" />

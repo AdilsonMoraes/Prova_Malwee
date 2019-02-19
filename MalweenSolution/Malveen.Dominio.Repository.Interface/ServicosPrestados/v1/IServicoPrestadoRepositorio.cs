@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Malveen.Dominio.Repository.Interface.ServicosPrestados.v1
 {
-    public interface IServicoPrestado
+    public interface IServicoPrestadoRepositorio
     {
     }
 }

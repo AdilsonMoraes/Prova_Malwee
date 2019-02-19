@@ -10,6 +10,7 @@ C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Repository.In
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.deps.json
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.dll
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.csprojAssemblyReference.cache
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.csproj.CoreCompileInputs.cache
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.AssemblyInfoInputs.cache
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Repository.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Repository.Interface.AssemblyInfo.cs

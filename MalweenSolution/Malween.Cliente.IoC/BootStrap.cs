@@ -1,11 +1,15 @@
 ﻿using Malveen.Dominio.Infraestrutura.Login.v1.Repositorio;
+using Malveen.Dominio.Infraestrutura.ServicosPrestados.v1.Repositorio;
 using Malveen.Dominio.Repository.Interface.Login.v1;
+using Malveen.Dominio.Repository.Interface.ServicosPrestados.v1;
 using Malween.Cliente.Autenticacao;
 using Malween.Cliente.Autenticacao.Interface;
 using Malween.Cliente.Servico.Atividades.v1.Servico;
 using Malween.Cliente.Servico.DadosUsuarioServico.v1;
 using Malween.Cliente.Servico.Interface.DadosUsuario;
+using Malween.Cliente.Servico.Interface.ServicoPrestado;
 using Malween.Cliente.Servico.Login.v1;
+using Malween.Cliente.Servico.ServicosPrestados;
 using Malween.Dominio.Servico.Interface.Atividades.v1;
 using Malween.Dominio.Servico.Interface.Login.v1;
 using Malween.Dominio.Servico.Interface.Mappers;
@@ -24,6 +28,7 @@ namespace Malween.Cliente.IoC
             Login(services);
             Mapper(services);
             DadosUsuario(services);
+            ServicoPrestado(services);
         }
 
         private static void Autenticacao(IServiceCollection services)
@@ -49,6 +54,11 @@ namespace Malween.Cliente.IoC
             services.AddScoped<IDadosUsuarioServico, DadosUsuarioServico>();
         }
 
+        private static void ServicoPrestado(IServiceCollection services)
+        {
+            services.AddScoped<IServicoPrestadoServico, ServicoPrestadoServico>();
+            services.AddScoped<IServicoPrestadoRepositorio, ServicoPrestadoRepositorio>();
+        }
 
     }
 }

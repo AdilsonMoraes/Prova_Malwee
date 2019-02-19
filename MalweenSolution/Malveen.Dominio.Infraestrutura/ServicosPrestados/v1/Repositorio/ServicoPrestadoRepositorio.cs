@@ -8,7 +8,7 @@ using System.Text;
 
 namespace Malveen.Dominio.Infraestrutura.ServicosPrestados.v1.Repositorio
 {
-    public class ServicoPrestadoRepositorio : CrudRepositorio<ServicoPrestado>, IServicoPrestado
+    public class ServicoPrestadoRepositorio : CrudRepositorio<ServicoPrestado>, IServicoPrestadoRepositorio
     {
         private readonly ContextoDominio _contexto;
 
