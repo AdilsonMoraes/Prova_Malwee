@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Dominio\Malween.Cliente.Dominio.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Servico.Interface\Malween.Cliente.Servico.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Dominio.Globalizazao\Malween.Dominio.Globalizacao.csproj" />
+    <ProjectReference Include="..\Malween.Dominio.Servico.Interface\Malween.Dominio.Servico.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Localization.Abstractions">
+      <HintPath>..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.localization.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.Localization.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

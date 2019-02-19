@@ -1,0 +1,8 @@
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\bin\Debug\netcoreapp2.1\Malween.Cliente.Dominio.deps.json
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\bin\Debug\netcoreapp2.1\Malween.Cliente.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\bin\Debug\netcoreapp2.1\Malween.Cliente.Dominio.pdb
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\obj\Debug\netcoreapp2.1\Malween.Cliente.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\obj\Debug\netcoreapp2.1\Malween.Cliente.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\obj\Debug\netcoreapp2.1\Malween.Cliente.Dominio.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\obj\Debug\netcoreapp2.1\Malween.Cliente.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Dominio\obj\Debug\netcoreapp2.1\Malween.Cliente.Dominio.pdb

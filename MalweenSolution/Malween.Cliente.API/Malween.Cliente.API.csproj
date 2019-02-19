@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Malveen.Dominio.Infraestrutura\Malveen.Dominio.Infraestrutura.csproj" />
+    <ProjectReference Include="..\Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Autenticacao.Interface\Malween.Cliente.Autenticacao.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Autenticacao\Malween.Cliente.Autenticacao.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Dominio\Malween.Cliente.Dominio.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Infraestrutura\Malween.Cliente.Infraestrutura.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.IoC\Malween.Cliente.IoC.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Repository.Interface\Malween.Cliente.Repository.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Servico.Interface\Malween.Cliente.Servico.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Cliente.Servico\Malween.Cliente.Servico.csproj" />
+    <ProjectReference Include="..\Malween.Dominio.Globalizazao\Malween.Dominio.Globalizacao.csproj" />
+    <ProjectReference Include="..\Malween.Dominio.Servico.Interface\Malween.Dominio.Servico.Interface.csproj" />
+    <ProjectReference Include="..\Malween.Dominio.Servico\Malween.Dominio.Servico.csproj" />
+    <ProjectReference Include="..\Malween.Dominio\Malween.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

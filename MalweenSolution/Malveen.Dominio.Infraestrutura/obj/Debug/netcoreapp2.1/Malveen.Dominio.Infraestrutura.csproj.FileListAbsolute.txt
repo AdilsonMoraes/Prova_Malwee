@@ -1,0 +1,14 @@
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.deps.json
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.pdb
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malween.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\bin\Debug\netcoreapp2.1\Malween.Dominio.pdb
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.csproj.CopyComplete
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.dll
+C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Infraestrutura\obj\Debug\netcoreapp2.1\Malveen.Dominio.Infraestrutura.pdb
