@@ -10,3 +10,15 @@ C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Repository.In
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.csproj.CopyComplete
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.dll
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\bin\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.deps.json
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\bin\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\bin\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\bin\Debug\netcoreapp2.1\Malween.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\bin\Debug\netcoreapp2.1\Malween.Dominio.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.csproj.CopyComplete
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malveen.Dominio.Repository.Interface\obj\Debug\netcoreapp2.1\Malveen.Dominio.Repository.Interface.pdb

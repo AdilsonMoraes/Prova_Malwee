@@ -6155,11 +6155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj",
       "projectName": "Malween.Cliente.Autenticacao.Interface",
-      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj",
       "packagesPath": "C:\\Users\\adilson.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6178,14 +6178,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj"
             }
           }
         }

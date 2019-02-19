@@ -6568,11 +6568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.IoC\\Malween.Cliente.IoC.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.IoC\\Malween.Cliente.IoC.csproj",
       "projectName": "Malween.Cliente.IoC",
-      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.IoC\\Malween.Cliente.IoC.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.IoC\\Malween.Cliente.IoC.csproj",
       "packagesPath": "C:\\Users\\adilson.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.IoC\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6591,23 +6591,23 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao.Interface\\Malween.Cliente.Autenticacao.Interface.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao\\Malween.Cliente.Autenticacao.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Autenticacao\\Malween.Cliente.Autenticacao.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao\\Malween.Cliente.Autenticacao.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Autenticacao\\Malween.Cliente.Autenticacao.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico\\Malween.Dominio.Servico.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico\\Malween.Dominio.Servico.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico\\Malween.Dominio.Servico.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico\\Malween.Dominio.Servico.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio\\Malween.Dominio.csproj"
             }
           }
         }

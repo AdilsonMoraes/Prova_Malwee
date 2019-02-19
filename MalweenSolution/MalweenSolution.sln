@@ -5,37 +5,37 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Cliente", "01 - Cliente", "{89565828-F802-48F6-93B7-CD0D678D0169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.API", "Malween.Cliente.API\Malween.Cliente.API.csproj", "{A03DB267-02AD-4D5B-B5F5-F2F9BCB89D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.API", "Malween.Cliente.API\Malween.Cliente.API.csproj", "{A03DB267-02AD-4D5B-B5F5-F2F9BCB89D4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Autenticacao", "Malween.Cliente.Autenticacao\Malween.Cliente.Autenticacao.csproj", "{20EF3B00-53CC-4F10-BBEA-D165BA7961A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Autenticacao", "Malween.Cliente.Autenticacao\Malween.Cliente.Autenticacao.csproj", "{20EF3B00-53CC-4F10-BBEA-D165BA7961A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Autenticacao.Interface", "Malween.Cliente.Autenticacao.Interface\Malween.Cliente.Autenticacao.Interface.csproj", "{D562E44E-6F74-4E72-BF97-6D3710A83F16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Autenticacao.Interface", "Malween.Cliente.Autenticacao.Interface\Malween.Cliente.Autenticacao.Interface.csproj", "{D562E44E-6F74-4E72-BF97-6D3710A83F16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.IoC", "Malween.Cliente.IoC\Malween.Cliente.IoC.csproj", "{6A14A6F6-9FC1-4665-84D8-3AB711EE2542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.IoC", "Malween.Cliente.IoC\Malween.Cliente.IoC.csproj", "{6A14A6F6-9FC1-4665-84D8-3AB711EE2542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Servico", "Malween.Cliente.Servico\Malween.Cliente.Servico.csproj", "{AD99D815-8F30-426B-9DD0-76860D2196BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Servico", "Malween.Cliente.Servico\Malween.Cliente.Servico.csproj", "{AD99D815-8F30-426B-9DD0-76860D2196BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Servico.Interface", "Malween.Cliente.Servico.Interface\Malween.Cliente.Servico.Interface.csproj", "{62C8807C-A680-46E1-9105-6453EE8B7589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Servico.Interface", "Malween.Cliente.Servico.Interface\Malween.Cliente.Servico.Interface.csproj", "{62C8807C-A680-46E1-9105-6453EE8B7589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Dominio", "Malween.Cliente.Dominio\Malween.Cliente.Dominio.csproj", "{2A291C7E-6D94-4F07-8785-BC761CA37B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Dominio", "Malween.Cliente.Dominio\Malween.Cliente.Dominio.csproj", "{2A291C7E-6D94-4F07-8785-BC761CA37B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Infraestrutura", "Malween.Cliente.Infraestrutura\Malween.Cliente.Infraestrutura.csproj", "{4AE7FB34-D6AE-49D2-B138-85CA36CBDF40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Infraestrutura", "Malween.Cliente.Infraestrutura\Malween.Cliente.Infraestrutura.csproj", "{4AE7FB34-D6AE-49D2-B138-85CA36CBDF40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Cliente.Repository.Interface", "Malween.Cliente.Repository.Interface\Malween.Cliente.Repository.Interface.csproj", "{6362C2C8-9CC9-4AF6-A747-81447F5EEA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Cliente.Repository.Interface", "Malween.Cliente.Repository.Interface\Malween.Cliente.Repository.Interface.csproj", "{6362C2C8-9CC9-4AF6-A747-81447F5EEA93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Dominio", "02 - Dominio", "{5426C53C-CC58-4ABD-9978-3B83787717D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Dominio", "Malween.Dominio\Malween.Dominio.csproj", "{3FA5D8E3-C0B3-4794-B668-EA4C2DDF8986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Dominio", "Malween.Dominio\Malween.Dominio.csproj", "{3FA5D8E3-C0B3-4794-B668-EA4C2DDF8986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Dominio.Servico", "Malween.Dominio.Servico\Malween.Dominio.Servico.csproj", "{86DE455D-C80A-4AFD-BE86-C6BCB3ED1BE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Dominio.Servico", "Malween.Dominio.Servico\Malween.Dominio.Servico.csproj", "{86DE455D-C80A-4AFD-BE86-C6BCB3ED1BE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Dominio.Servico.Interface", "Malween.Dominio.Servico.Interface\Malween.Dominio.Servico.Interface.csproj", "{02253A32-104B-40E7-A9BD-9BFFC3A21EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Dominio.Servico.Interface", "Malween.Dominio.Servico.Interface\Malween.Dominio.Servico.Interface.csproj", "{02253A32-104B-40E7-A9BD-9BFFC3A21EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malween.Dominio.Globalizacao", "Malween.Dominio.Globalizazao\Malween.Dominio.Globalizacao.csproj", "{79681A04-2856-49B8-BA5D-CD62E47228EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malween.Dominio.Globalizacao", "Malween.Dominio.Globalizazao\Malween.Dominio.Globalizacao.csproj", "{79681A04-2856-49B8-BA5D-CD62E47228EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malveen.Dominio.Repository.Interface", "Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj", "{C6092AC6-FF08-4127-ADD8-6F8B6ED82139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malveen.Dominio.Repository.Interface", "Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj", "{C6092AC6-FF08-4127-ADD8-6F8B6ED82139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malveen.Dominio.Infraestrutura", "Malveen.Dominio.Infraestrutura\Malveen.Dominio.Infraestrutura.csproj", "{94B9FDC0-05B2-49BE-B8D9-8925E3B65355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Malveen.Dominio.Infraestrutura", "Malveen.Dominio.Infraestrutura\Malveen.Dominio.Infraestrutura.csproj", "{94B9FDC0-05B2-49BE-B8D9-8925E3B65355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

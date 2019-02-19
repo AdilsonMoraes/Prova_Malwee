@@ -6,3 +6,11 @@ C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Servico.Inter
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.AssemblyInfo.cs
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.dll
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.deps.json
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\bin\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.Servico.Interface\obj\Debug\netcoreapp2.1\Malween.Cliente.Servico.Interface.pdb

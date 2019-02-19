@@ -12,3 +12,17 @@ C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Dominio.Servico\obj\D
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.csproj.CopyComplete
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.dll
 C:\Projetos\Pessoais\Prova_Malween\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.Servico.deps.json
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.Servico.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.Servico.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.Servico.Interface.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.Servico.Interface.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\bin\Debug\netcoreapp2.1\Malween.Dominio.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.AssemblyInfo.cs
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.csproj.CopyComplete
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Dominio.Servico\obj\Debug\netcoreapp2.1\Malween.Dominio.Servico.pdb

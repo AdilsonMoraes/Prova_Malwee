@@ -1,5 +1,4 @@
-﻿using Malveen.Dominio.Infraestrutura.Contextos;
-using Malween.Cliente.Infraestrutura.Contextos;
+﻿using Malveen.Dominio.Infraestrutura.Contextos.v1;
 using Malween.Cliente.IoC;
 using Malween.Dominio.ValueObjects.Jwt;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -114,19 +113,19 @@ namespace Malween.Cliente.API
                 options.ForwardClientCertificate = false;
             });
 
-            services.AddDbContext<ContextoCliente>(options => options.UseSqlServer(
-                Configuration.GetConnectionString("ConexaoDev"),
-                sqlOptions => sqlOptions.EnableRetryOnFailure(
-                    maxRetryCount: 3,
-                    maxRetryDelay: TimeSpan.FromHours(3),
-                    errorNumbersToAdd: null)));
-
             services.AddDbContext<ContextoDominio>(options => options.UseSqlServer(
                 Configuration.GetConnectionString("ConexaoDev"),
                 sqlOptions => sqlOptions.EnableRetryOnFailure(
                     maxRetryCount: 3,
                     maxRetryDelay: TimeSpan.FromHours(3),
                     errorNumbersToAdd: null)));
+
+            //services.AddDbContext<ContextoCliente>(options => options.UseSqlServer(
+            //    Configuration.GetConnectionString("ConexaoDev"),
+            //    sqlOptions => sqlOptions.EnableRetryOnFailure(
+            //        maxRetryCount: 3,
+            //        maxRetryDelay: TimeSpan.FromHours(3),
+            //        errorNumbersToAdd: null)));
         }
         public void Configure(
             IApplicationBuilder app,
@@ -167,11 +166,8 @@ namespace Malween.Cliente.API
                         options.SwaggerEndpoint(
                             $"/swagger/{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
 #else
-                        options.SwaggerEndpoint($"/Metalfrio.Core.Cliente/swagger/{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
+                        options.SwaggerEndpoint($"/DOMINIO/swagger/{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
 #endif
-
-
-
                     }
                 });
         }

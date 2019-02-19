@@ -5394,11 +5394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj",
       "projectName": "Malween.Cliente.Servico",
-      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico\\Malween.Cliente.Servico.csproj",
       "packagesPath": "C:\\Users\\adilson.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5417,20 +5417,20 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Dominio\\Malween.Cliente.Dominio.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Dominio\\Malween.Cliente.Dominio.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Dominio\\Malween.Cliente.Dominio.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Dominio\\Malween.Cliente.Dominio.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico.Interface\\Malween.Cliente.Servico.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Cliente.Servico.Interface\\Malween.Cliente.Servico.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico.Interface\\Malween.Cliente.Servico.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Cliente.Servico.Interface\\Malween.Cliente.Servico.Interface.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj"
             },
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Servico.Interface\\Malween.Dominio.Servico.Interface.csproj"
             }
           }
         }

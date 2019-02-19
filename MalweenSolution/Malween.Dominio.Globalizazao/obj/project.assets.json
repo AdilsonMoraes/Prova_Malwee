@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj",
       "projectName": "Malween.Dominio.Globalizacao",
-      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Globalizazao\\Malween.Dominio.Globalizacao.csproj",
       "packagesPath": "C:\\Users\\adilson.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malween.Dominio.Globalizazao\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malween.Dominio.Globalizazao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Malveen.Dominio.Repository.Interface\Malveen.Dominio.Repository.Interface.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="InterfaceGenerica\v1\Mapeamento\" />
+  </ItemGroup>
+
 </Project>

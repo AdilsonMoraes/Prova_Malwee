@@ -6133,11 +6133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj",
       "projectName": "Malveen.Dominio.Infraestrutura",
-      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\Malveen.Dominio.Infraestrutura.csproj",
       "packagesPath": "C:\\Users\\adilson.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Infraestrutura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6156,8 +6156,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
-              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malween\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
+            "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoais\\Prova_Malwee\\MalweenSolution\\Malveen.Dominio.Repository.Interface\\Malveen.Dominio.Repository.Interface.csproj"
             }
           }
         }

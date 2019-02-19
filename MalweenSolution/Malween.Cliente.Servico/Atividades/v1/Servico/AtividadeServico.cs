@@ -14,25 +14,5 @@ namespace Malween.Cliente.Servico.Atividades.v1.Servico
         {
             _globalizacao = globalizacao;
         }
-
-        //public MensagemResposta Adicionar(Atividade dados)
-        //{
-        //    var resposta = new MensagemResposta();
-
-        //    var validacao = new AdicionarValidacao(_globalizacao);
-
-        //    var resultado = validacao.Validate(dados);
-        //    resposta.Erros = resultado.ToErro();
-
-        //    if (resultado.IsValid)
-        //    {
-        //        resposta.CorrelationId = _integracaoServico.EnviarAsync<Atividade, ICadastrarAtividadeFila>(dados, Dominio.Integracoes.Enum.Filas.ToCOLD);
-        //        _respostaServico.InserirAguardando(resposta.CorrelationId);
-        //    }
-
-        //    return resposta;
-        //}
-
-
     }
 }
