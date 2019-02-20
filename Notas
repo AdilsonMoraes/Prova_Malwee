@@ -1,0 +1,12 @@
+1 - No sql server, criar um banco de dados.
+2 - Na camada "01 - Cliente" tem uma API, no projeto "Malween,Cliente.API" fazer a troca do arquivo "appsettings.ConexaoDev" 
+    passando os dados do banco que foi criado por vocês para o teste da API.
+3 - Após criar o banco no sql server e alterar a string de conexao do "appsettings", rodar o "Migrations" 
+    no projeto "02 - Dominio" - "Malveen.Dominio.Infraestrutura".
+4 - Após rodar o Migrations, verifique se as tabelas foram criadas no banco de dados e criar um usuario na tabela [USUARIO_LOGIN].
+5 - Rodar a aplicação, na aplicação, tem um SWAGGER rodando, basta acessar o link "http://localhost:IPDAAPLICACAO/swagger/index.html"
+6 - Para chamar os EndPoints do swagger no postman, é necessário gerar um token de acesso no endpoint "/api/v1/Autenticar/GerarToken"
+    utilizando o usuario da tabela [USUARIO_LOGIN].
+    
+
+Obs: Coloquei na pasta script os inserts
