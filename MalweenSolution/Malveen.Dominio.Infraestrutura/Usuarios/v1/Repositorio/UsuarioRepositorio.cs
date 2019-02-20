@@ -1,7 +1,7 @@
 ﻿using Malveen.Dominio.Infraestrutura.Contextos.v1;
 using Malveen.Dominio.Infraestrutura.InterfaceGenerica.v1.Repositorio;
 using Malveen.Dominio.Repository.Interface.Usuarios.v1;
-using Malween.Dominio.Usuario.v1;
+using Malween.Dominio.Usuarios.v1;
 using System.Linq;
 
 namespace Malveen.Dominio.Infraestrutura.Usuarios.v1.Repositorio

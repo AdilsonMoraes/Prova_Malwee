@@ -3,11 +3,11 @@ using Malveen.Dominio.Infraestrutura.Fornecedores.v1.Mapeamento;
 using Malveen.Dominio.Infraestrutura.Login.v1.Mapeamento;
 using Malveen.Dominio.Infraestrutura.ServicosPrestados.v1.Mapeamento;
 using Malveen.Dominio.Infraestrutura.Usuarios.v1.Mapeamento;
-using Malween.Dominio.Cliente.v1;
-using Malween.Dominio.Fornecedor.v1;
+using Malween.Dominio.Clientes.v1;
+using Malween.Dominio.Fornecedores.v1;
 using Malween.Dominio.Login.v1;
-using Malween.Dominio.ServicoPrestado.v1;
-using Malween.Dominio.Usuario.v1;
+using Malween.Dominio.ServicosPrestados.v1;
+using Malween.Dominio.Usuarios.v1;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 

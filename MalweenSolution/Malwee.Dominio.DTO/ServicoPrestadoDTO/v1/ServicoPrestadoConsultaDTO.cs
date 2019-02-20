@@ -8,31 +8,19 @@ using System.Text;
 
 namespace Malwee.Dominio.DTO.ServicoPrestadoDTO.v1
 {
-    public class ServicoPrestadoConsultaDTO : BaseDTO, IValidatableObject
+    public class ServicoPrestadoConsultaDTO : BaseDTO
     {
-        [JsonProperty("descricao")]
-        public string Descricao { get; set; }
-        [JsonProperty("Data_Atendimento")]
-        public DateTime DataAtendimento { get; set; }
-        [JsonProperty("Valor_Servico")]
-        public double ValorServico { get; set; }
-        [JsonProperty("Tipo")]
+        [JsonProperty("Cliente")]
+        public string Cliente { get; set; }
+        [JsonProperty("Estado")]
+        public string Estado{ get; set; }
+        [JsonProperty("Bairro")]
+        public string Bairro { get; set; }
+        [JsonProperty("Tipo_Servico")]
         public string Tipo { get; set; }
-
-        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
-        {
-            if (String.IsNullOrEmpty(Descricao))
-            {
-                yield return new ValidationResult(GeralEnumException.DescricaoEmptyOrNull.ToString());
-            }
-            if (ValorServico == 0)
-            {
-                yield return new ValidationResult(GeralEnumException.ValorServicoZerado.ToString());
-            }
-            if (String.IsNullOrEmpty(Tipo))
-            {
-                yield return new ValidationResult(GeralEnumException.TipoEmptyOrNull.ToString());
-            }
-        }
+        [JsonProperty("Valor_Minimo")]
+        public double ValorMinimo { get; set; }
+        [JsonProperty("Valor_Maximo")]
+        public double ValorMaximo { get; set; }
     }
 }

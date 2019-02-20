@@ -16,12 +16,15 @@ namespace Malween.Cliente.Servico.Login.v1
     {
         private readonly IUsuarioLoginRepositorio _repositorio;
         private readonly IStringLocalizer<Textos> _globalizacao;
+        private readonly IUsuarioLoginRepositorio _usuarioLoginRepositorio;
 
         public UsuarioLoginServico(IUsuarioLoginRepositorio repositorio,
-                                    IStringLocalizer<Textos> globalizacao)
+                                    IStringLocalizer<Textos> globalizacao,
+                                    IUsuarioLoginRepositorio usuarioLoginRepositorio)
         {
             _repositorio = repositorio;
             _globalizacao = globalizacao;
+            _usuarioLoginRepositorio = usuarioLoginRepositorio;
         }
 
         public UsuarioLogin Retorna(UsuarioLogin login)

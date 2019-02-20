@@ -1,9 +1,6 @@
-﻿using Malween.Dominio.Cliente.v1;
+﻿using Malween.Dominio.Clientes.v1;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Malveen.Dominio.Infraestrutura.Clientes.v1.Mapeamento
 {

@@ -26,6 +26,7 @@
         "dependencies": {
           "Malveen.Dominio.Infraestrutura": "1.0.0",
           "Malveen.Dominio.Repository.Interface": "1.0.0",
+          "Malwee.Dominio.DTO": "1.0.0",
           "Malween.Cliente.Autenticacao": "1.0.0",
           "Malween.Cliente.Autenticacao.Interface": "1.0.0",
           "Malween.Cliente.Dominio": "1.0.0",
@@ -871,6 +872,18 @@
         },
         "compile": {
           "Malveen.Dominio.Repository.Interface.dll": {}
+        }
+      },
+      "Malwee.Dominio.DTO/1.0.0": {
+        "dependencies": {
+          "Malween.Dominio": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "Malwee.Dominio.DTO.dll": {}
+        },
+        "compile": {
+          "Malwee.Dominio.DTO.dll": {}
         }
       },
       "Malween.Cliente.Autenticacao/1.0.0": {
@@ -4159,6 +4172,11 @@
       "sha512": ""
     },
     "Malveen.Dominio.Repository.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Malwee.Dominio.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

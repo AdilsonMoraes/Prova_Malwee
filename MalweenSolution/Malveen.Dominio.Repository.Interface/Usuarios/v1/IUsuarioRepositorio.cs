@@ -1,7 +1,4 @@
-﻿using Malween.Dominio.Usuario.v1;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Malween.Dominio.Usuarios.v1;
 
 namespace Malveen.Dominio.Repository.Interface.Usuarios.v1
 {

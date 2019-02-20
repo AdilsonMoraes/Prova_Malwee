@@ -1,9 +1,6 @@
-﻿using Malween.Dominio.ServicoPrestado.v1;
+﻿using Malween.Dominio.ServicosPrestados.v1;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Malveen.Dominio.Infraestrutura.ServicosPrestados.v1.Mapeamento
 {

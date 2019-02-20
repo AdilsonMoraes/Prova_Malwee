@@ -15,7 +15,7 @@ namespace Malwee.Dominio.DTO.ServicoPrestadoDTO.v1
         [JsonProperty("descricao")]
         public string Descricao { get; set; }
         [JsonProperty("Data_Atendimento")]
-        public DateTime DataAtendimento { get; set; }
+        public DateTime? DataAtendimento { get; set; }
         [JsonProperty("Valor_Servico")]
         public double ValorServico { get; set; }
         [JsonProperty("Tipo")]

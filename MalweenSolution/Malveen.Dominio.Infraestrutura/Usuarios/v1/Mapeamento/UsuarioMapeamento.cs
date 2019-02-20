@@ -1,4 +1,5 @@
-﻿using Malween.Dominio.Usuario.v1;
+﻿using Malween.Dominio.Fornecedores.v1;
+using Malween.Dominio.Usuarios.v1;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

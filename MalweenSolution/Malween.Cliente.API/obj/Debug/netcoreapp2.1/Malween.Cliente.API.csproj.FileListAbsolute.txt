@@ -88,3 +88,5 @@ C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\obj\Debug\
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\obj\Debug\netcoreapp2.1\Malween.Cliente.API.csproj.CopyComplete
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\obj\Debug\netcoreapp2.1\Malween.Cliente.API.dll
 C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\obj\Debug\netcoreapp2.1\Malween.Cliente.API.pdb
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\bin\Debug\netcoreapp2.1\Malwee.Dominio.DTO.dll
+C:\Projetos\Pessoais\Prova_Malwee\MalweenSolution\Malween.Cliente.API\bin\Debug\netcoreapp2.1\Malwee.Dominio.DTO.pdb

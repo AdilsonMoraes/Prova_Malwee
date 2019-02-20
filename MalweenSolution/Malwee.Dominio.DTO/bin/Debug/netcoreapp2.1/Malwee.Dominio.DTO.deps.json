@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.1": {
       "Malwee.Dominio.DTO/1.0.0": {
         "dependencies": {
-          "Malween.Dominio": "1.0.0"
+          "Malween.Dominio": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
           "Malwee.Dominio.DTO.dll": {}
